@@ -4,7 +4,7 @@
 💻 Passionate about IoT, Python, AI/ML, and Cloud-based Applications  
 🌱 Currently learning Full Stack Development and DevOps  
 📫 Reach me: chodisettiharivenkatesh@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/hari-chodisetti-a569222b6) | [Portfolio (Optional)](https://yourwebsite.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/hari-chodisetti-a569222b6) 
 
 ## 🛠️ Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
